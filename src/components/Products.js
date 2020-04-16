@@ -3,6 +3,8 @@ import React from 'react';
 // Components
 import Product from './Product';
 
+
+
 const Products = props => {
 	return (
 		<div className="products-container">
